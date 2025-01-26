@@ -685,9 +685,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "CASH - spendable money gained from selling stocks. See at bottom of screen.\nCAPITAL
-    - how much you have worth of stocks. \nCORRUPTION - how quickly stock prices
-    increase. Pay to increase with CASH."
+  m_text: "IMPORTANT - Make sure to buy before you spend on corruption. You can and
+    will soft lock yourself into a minute of shameful waiting. \nCASH - spendable
+    money gained from selling stocks. See at bottom of screen.\nCAPITAL - how much
+    you have worth of stocks. \nCORRUPTION - how quickly stock prices increase. Pay
+    to increase with CASH."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
   m_sharedMaterial: {fileID: 4181041071494167256, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
@@ -1119,8 +1121,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 498, y: 48.683838}
-  m_SizeDelta: {x: 309.2905, y: 229.9277}
+  m_AnchoredPosition: {x: 498, y: 141.13385}
+  m_SizeDelta: {x: 309.2905, y: 310.319}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &670364673
 MonoBehaviour:

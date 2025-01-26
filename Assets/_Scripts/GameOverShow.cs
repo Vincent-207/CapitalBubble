@@ -19,6 +19,10 @@ public class GameOverShow : MonoBehaviour
         coinCorrupt = PlayerData.instance.coinCorruptValue;
         finalScore = firstScore + swizzleCorrupt + steelCorrupt + meatCorrupt + coinCorrupt;
     }
+    public float getFinalScore()
+    {
+        return finalScore;
+    }
 
     // Update is called once per frame
     void Update()

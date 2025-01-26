@@ -383,9 +383,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "- Buy low and sell high to make a profit, the higher profit the higher
-    score. \n- Click the yellow button to spend cash on CORRUPTION, corruption changes
-    how quickly stock prices increase. \n - The market is open only for 60 seconds."
+  m_text: "CAPITAL BUBBLE is an economy focused strategy game about corruption and
+    stocks. \r\nFor best success:\r\nBUY stocks at low price.\r\nCORRUPT stocks with
+    CASH to increase how quickly they raise in price. \r\nSELL and repeat.\r\nThe
+    market is open for only 60 seconds. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
   m_sharedMaterial: {fileID: 4181041071494167256, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
@@ -685,11 +686,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "IMPORTANT - Make sure to buy before you spend on corruption. You can and
-    will soft lock yourself into a minute of shameful waiting. \nCASH - spendable
-    money gained from selling stocks. See at bottom of screen.\nCAPITAL - how much
-    you have worth of stocks. \nCORRUPTION - how quickly stock prices increase. Pay
-    to increase with CASH."
+  m_text: "CASH - Spending money gained by selling stocks.\r\nCAPITAL - How much
+    money you have worth of stocks. \r\nCORRUPTION - How quickly stocks\u2019 prices
+    increase. The button shows how much it CASH it costs to increase. \r\nCORRUPTION
+    - how quickly stock prices increase. Pay to increase with CASH."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
   m_sharedMaterial: {fileID: 4181041071494167256, guid: 023ae715ad72b564aab930fb1ab9b2ca, type: 2}
@@ -2515,8 +2515,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -496.31595, y: -226.34135}
-  m_SizeDelta: {x: 309.2905, y: 253.3416}
+  m_AnchoredPosition: {x: -492, y: -211}
+  m_SizeDelta: {x: 309.2905, y: 280.6136}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1990408624
 MonoBehaviour:
